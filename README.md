@@ -1,14 +1,10 @@
 ![](./imgs/header.png)
 
 <hr>
-<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=45&color=1B88C8&center=true&vCenter=true&width=500&height=110&lines=++A+student+🎓!++;++A+developer+🖥️!++;++A+Frenchman+🥖!++)
-</div>
+- 👨‍💻 All of my projects are available on my [portfolio](https://kan-a-pesh.fr/) !
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://kan-a-pesh.ml/) !
-
-- 📫 How to reach me **contact@kan-a-pesh.ml**
+- 📫 How to reach me **contact@kan-a-pesh.fr**
 
 - ⚡ Fun fact **The World’s Biggest Fish Eats The Smallest Food**
 
@@ -54,8 +50,3 @@
 <img src="https://raw.githubusercontent.com/Kan-A-Pesh/github-stats-transparent/output/generated/languages.svg">
 
 <br>
-<div align="center">
-<br>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-</div>
