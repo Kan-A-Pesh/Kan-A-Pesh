@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://kan-a-pesh.fr/) !
 
-- 📫 How to reach me **not.kanapesh@gmail.com**
+- 📫 How to reach me **michel.moccandjacquet@gmail.com**
 
 - ⚡ Fun fact **The World’s Biggest Fish Eats The Smallest Food**
 
@@ -11,13 +11,11 @@
 
 <div align="center">
 
+[![](https://img.shields.io/badge/LinkedIn-Michel%20Moccand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelmoccand/)
 [![](https://img.shields.io/badge/Twitter-kana__pesh-1DA1F2?&style=for-the-badge&logo=twitter)](https://twitter.com/kana_pesh)
 [![](https://img.shields.io/badge/Instagram-kan.a.pesh-E4405F?&style=for-the-badge&logo=instagram)](https://instagram.com/kan.a.pesh)
 [![](https://img.shields.io/badge/Youtube-Kan--à--Pesh-ff0000?&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCED5xWZAFQLP5pZFkZj1fOA)
-[![](https://img.shields.io/badge/Discord-Join%20us!-5865F2?&style=for-the-badge&logo=discord)](https://discord.gg/EuzmrnSjAK)
 ![](https://dcbadge.vercel.app/api/shield/386529125638340621?theme=clean-inverted)
-[![](https://img.shields.io/badge/GameJolt-kan--a--pesh-CCFF00?&style=for-the-badge&logo=gamejolt)](https://discord.gg/EuzmrnSjAK)
-[![](https://img.shields.io/badge/LinkedIn-Michel%20Moccand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelmoccand/)
 
 </div>
 
